@@ -21,7 +21,6 @@ namespace _3065S
                 {
 
                     List<string> operadores = new List<string>();
-                    List<int> numeros = new List<int>();
 
                     int z = x + (x - 1);
 
